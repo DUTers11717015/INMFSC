@@ -12,7 +12,9 @@
   main.m--INMFSC/INMF
   
   main1006     -NMF
+  
   main1024nmf  -GINMFSC
+  
   main1027nmf  -GNMF
 
 ## Download this paper
