@@ -27,4 +27,6 @@
 
   If you find this code useful, please cite:
 
+  https://dblp.uni-trier.de/rec/conf/pcm/SunWLS18.html?view=bibtex
+  
   Jing Sun, Zhihui Wang, Haojie Li*, Fuming Sun. (2018) Incremental Nonnegative Matrix Factorization with Sparseness Constraint for Image Representation. PCM (2) 2018: 351-360.
